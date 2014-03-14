@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title : "frt's notepad"
+tagline: my public notepad
 ---
 {% include JB/setup %}
 

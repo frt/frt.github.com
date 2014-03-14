@@ -18,4 +18,4 @@ To turn a service "off" in the default runlevels:
 	
 	# chkconfig <service_name> off
 
-More info: https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Deployment_Guide/s2-services-chkconfig.html
+More info: <https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Deployment_Guide/s2-services-chkconfig.html>

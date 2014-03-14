@@ -1,6 +1,6 @@
 ---
 layout: page
-title : "frt's notepad"
+title : frt.github.io
 tagline: my public notepad
 ---
 {% include JB/setup %}

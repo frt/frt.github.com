@@ -11,4 +11,4 @@ In my Arch Linux the keyboard configurations are in the `/usr/share/X11/xorg.con
 I just added the following lines to the `Section "InputClass"` with `Identifier "evdev keyboard catchall"`:
 
 	Option  "XkbLayout" "us"
-        Option  "XkbVariant" "altgr-intl"
+	Option  "XkbVariant" "altgr-intl"

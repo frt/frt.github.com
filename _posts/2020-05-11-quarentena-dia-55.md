@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quarentena dia 54"
+title: "Quarentena dia 55"
 tagline: "Upgrade de memória"
 category: Diário da Quarentena
 tags: [quarentena, covid-19]

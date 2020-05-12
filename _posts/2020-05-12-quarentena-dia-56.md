@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quarentena dia 55"
+title: "Quarentena dia 56"
 tagline: "Assistência funerária"
 category: Diário da Quarentena
 tags: [quarentena, covid-19]

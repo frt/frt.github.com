@@ -20,3 +20,5 @@ bem e me deram um remédio pra dor. Dali fui pro trabalho.
 No trabalho fomos informados que em São Paulo, Rio de Janeiro e Brasília todos
 já estavam trabalhando de casa e podia ser que aqui acontecesse o mesmo em
 breve. E a garganta ainda doendo.
+
+À noite, um haitiano veio do futuro pra dar uma notícia.

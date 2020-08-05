@@ -23,10 +23,8 @@ So to add the Syntastic plugin I did:
 ```
 cd ~/repos/dotfiles     # repository is already created and cloned
 git submodule init
-git submodule add https://github.com/vim-syntastic/syntastic.git \
-        .vim/pack/plugins/start/syntastic
-git add .gitmodules \
-        .vim/pack/plugins/start/syntastic
+git submodule add https://github.com/vim-syntastic/syntastic.git .vim/pack/plugins/start/syntastic
+git add .gitmodules .vim/pack/plugins/start/syntastic
 git commit
 ```
 
@@ -44,3 +42,15 @@ ln -s ~/repos/dotfiles/{.vimrc,.vim} ~/
 
 So, when I change some configuration where I use to do it, it is automatically
 tracked by Git. I only need to `commit` and `push` it.
+
+## Removing a package
+
+Removing a package is just a case of removing the git submodule.
+
+By example:
+```
+git submodule deinit .vim/pack/plugins/start/syntastic
+git rm .vim/pack/plugins/start/syntastic
+rm -Rf .git/modules/.vim/pack/plugins/start/syntastic
+git commit
+```
